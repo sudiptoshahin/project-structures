@@ -6,6 +6,7 @@
 1. High-level modules should not depend on low-level modules. Both should depend on abstractions.
 2. Abstractions should not depend on details. Details should depend on abstractions.
 
+<img src="image.png" alt="alt text" width="350" height="350" />
 
 * **Domain Layer** (Core): 
     *Contains business entities and repository interfaces. No dependencies on other layers.*
